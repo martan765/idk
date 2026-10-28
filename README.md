@@ -156,4 +156,4 @@ npm run build
 
 ## 👤 Autor
 
-Developed by Martin Hábl.
+Developed by idk.
